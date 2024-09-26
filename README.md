@@ -19,4 +19,4 @@
   <img alt="LUA" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
 </p>
 
-[![GitHub stats](https://github-readme-stats-omega-six-64.vercel.app/api?username=SamuelDeanA)](https://github-readme-stats-omega-six-64.vercel.app)
+[![GitHub stats](https://github-readme-stats-omega-six-64.vercel.app/api?username=SamuelDeanA&hide=stars,issues)](https://github-readme-stats-omega-six-64.vercel.app)
